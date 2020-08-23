@@ -1,4 +1,7 @@
 #infoText{
   width: 450;
-  
+}
+#downloadButton{
+  background-color: orange;
+  color: yellow;
 }
